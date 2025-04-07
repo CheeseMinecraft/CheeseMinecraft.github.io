@@ -1,0 +1,27 @@
+基础信息
+   运行目录: C:\Users\Administrator\Desktop\CheeseNEL 2.0.0407
+硬件信息
+   屏幕分辨率: 1368*768
+   CPU型号: Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz
+   CPU制造商: Intel Corporation.
+   CPU序列号: 0F8BFBFF000306F2
+   物理内存: 2047MB
+   虚拟内存: 4094MB
+系统信息
+   类型: Microsoft Windows Server 2022 Standard Evaluation
+   版本: 10.0.20348
+   用户名: NekoCurit
+   IE 版本: 11.1.20348.0
+   序列号: 00454-40000-00001-AA697
+目录信息
+   系统桌面: C:\Users\Administrator\Desktop\
+   程序数据: C:\Users\Administrator\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\ADMINI~1\AppData\Local\Temp\2\
+   临时目录: C:\Users\ADMINI~1\AppData\Local\Temp\2\
+其它信息
+   Zone 登录信息: 
+   Zone 盒子账号: 
+   登录过的 QQ 号: 
+   桌面文件: CheeseNEL 2.0.0407.zip, desktop.ini, hmcl-dev-3.6.11.266.exe, hmcl.json, Microsoft Edge.lnk, 欣欣哥看我.txt
