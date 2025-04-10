@@ -1,0 +1,26 @@
+基础信息
+   运行目录: D:\Downloads\CheeseNEL 2.0.0408
+   系统时间: 2025年4月10日12时56分55秒
+硬件信息
+   屏幕分辨率: 1097*617
+   CPU型号: Intel Core Processor (Broadwell, no TSX, IBRS)
+   CPU制造商: Intel Corporation.
+   CPU序列号: 178BFBFF000306D2
+   物理内存: 32763MB
+   虚拟内存: 32763MB
+系统信息
+   类型: Microsoft Windows 10 专业版
+   版本: 10.0.19045
+   用户名: Administrator
+   IE 版本: 11.3636.19041.0
+   序列号: 00331-10000-00001-AA463
+目录信息
+   系统桌面: C:\Users\Administrator\Desktop\
+   程序数据: C:\Users\Administrator\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\ADMINI~1\AppData\Local\Temp\
+   文档目录: C:\Users\Administrator\Documents\
+其它信息
+   登录过的 QQ 号: 1, All Users
+   桌面文件: desktop.ini, EA.lnk, PSP模拟器.lnk, Rockstar Games.lnk, Ubi-Connect.lnk, ~$游戏账号簿-3.1.xlsx, ~$游戏账号簿-3.17.xlsx, ~$游戏账号簿-5.8.xlsx, 侠盗猎车手5.url, 天国：拯救2.url, 完美游戏平台.lnk, 怪物猎人荒野.url, 我的世界合集.lnk, 搜狗高速浏览器.lnk, 摩尔庄园.lnk, 文明VII.url, 海豚模拟器.lnk, 米哈游启动器.lnk
