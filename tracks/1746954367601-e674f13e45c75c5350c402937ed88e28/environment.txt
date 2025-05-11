@@ -1,0 +1,26 @@
+基础信息
+   运行目录: D:\Program Files (x86)\CheeseNEL 2.0.0511
+   系统时间: 2025年5月11日17时6分6秒
+硬件信息
+   屏幕分辨率: 1920*1080
+   CPU型号: 13th Gen Intel(R) Core(TM) i5-13490F
+   CPU制造商: Intel Corporation.
+   CPU序列号: BFEBFBFF000B06F2
+   物理内存: 32608MB
+   虚拟内存: 39264MB
+系统信息
+   类型: Microsoft Windows 11 专业版
+   版本: 10.0.26100
+   用户名: Administrator
+   IE 版本: 11.1882.26100.0
+   序列号: 00330-80000-00000-AA739
+目录信息
+   系统桌面: C:\Users\Administrator\Desktop\
+   程序数据: C:\Users\Administrator\AppData\Roaming\
+   Windows安装目录: C:\WINDOWS\
+   Windows系统目录: C:\WINDOWS\system32\
+   临时目录: C:\Users\ADMINI~1\AppData\Local\Temp\
+   文档目录: C:\Users\Administrator\Documents\
+其它信息
+   登录过的 QQ 号: 923517801
+   桌面文件: 928B410957484FF451AC33ABDF84CF0F.png, aclos-launcher.exe - 快捷方式.lnk, Bloons TD 6.url, Castle Crashers.url, Chatbox.lnk, Dead Cells.url, desktop.ini, Left 4 Dead 2.url, LM Studio.lnk, oopz.lnk, Plain Craft Launcher 2.exe - 快捷方式.lnk, PUBG BATTLEGROUNDS.url, QQ音乐.lnk, Stardew Valley.url, Start.exe - 快捷方式.lnk, Start.exe.lnk, Terraria.url, tModLoader.url, Veta.Client.UI.exe.lnk, Wallpaper Engine：壁纸引擎.url, WNF.Client.UI.exe - 快捷方式.lnk, YY语音.lnk, 卡拉彼丘-WeGame.lnk, 已删除的应用.html, 抖音.lnk, 无畏契约WeGame版.lnk, 永劫无间.lnk, 穿越火线.lnk, 超级鸡马.url, 迅雷.lnk, 雷神加速器.lnk, 饿殍：明末千里行.url
