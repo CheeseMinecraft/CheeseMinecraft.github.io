@@ -1,0 +1,29 @@
+基础信息
+   运行目录: C:\Users\gaoxi\Downloads\CheeseNEL 2.0.0514
+   系统时间: 2025年5月16日19时59分21秒
+硬件信息
+   屏幕分辨率: 1920*1080
+   CPU型号: AMD Ryzen 7 3700X 8-Core Processor             
+   CPU制造商: Advanced Micro Devices.
+   CPU序列号: 178BFBFF00870F10
+   物理内存: 32677MB
+   虚拟内存: 65445MB
+   摄像头数量: 1
+系统信息
+   类型: Microsoft Windows 11 专业版
+   版本: 10.0.22631
+   用户名: Happy
+   IE 版本: 11.1.22621.0
+   序列号: 00330-80000-00000-AA977
+目录信息
+   系统桌面: C:\Users\gaoxi\Desktop\
+   程序数据: C:\Users\gaoxi\AppData\Roaming\
+   Windows安装目录: C:\WINDOWS\
+   Windows系统目录: C:\WINDOWS\system32\
+   临时目录: C:\Users\gaoxi\AppData\Local\Temp\
+   文档目录: C:\Users\gaoxi\Documents\
+其它信息
+   登录过的 QQ 号: 1, 3395477374, All Users, screenshot
+   桌面文件: 1200x1200bf-60.jpg, 1_GD X TAEYANG - GOOD BOY (2015 BIGBANG WORLD TOUR [MADE] IN SEOUL LIVE VER.)_(Vocals).flac, 20250505_184733.iso, 3DMark.url, Authorize.auz, BAE BAE - BIGBANG.flac, Bae Bae.mscz, Bae Bae.png, Blockbench.lnk, CheatBreaker.lnk, F. L Driver.lnk, GD X TAEYANG - GOOD BOY (2015 BIGBANG WORLD TOUR [MADE] IN SEOUL LIVE VER.).mp3, geek.exe, HMCL-3.5.8.exe, hmcl.json, I Wanna Maker.url, Lunar Client.lnk, MCSD.exe, MuseScore Studio 4.lnk, PCL2 CE.lnk, Poe.lnk, run.bat, Super Mario Bros. (JU) (PRG0) [!].nes, Ultimate Vocal Remover.lnk, Unlocker.exe, VMware15.exe, zlibwapi.dll, 人类一败涂地  Human Fall Flat.url, 冰与火之舞 A Dance of Fire and Ice.url, 剪映专业版.lnk, 新建 DOCX 文档.docx, 珍妮整合包(带材质版本).zip, 认证 Ableton Live Offline.txt, 酷狗音乐.lnk, 雷神加速器.lnk
+   ToDesk 设备码: 881468273
+   ToDesk 登录手机号: 18731646145
