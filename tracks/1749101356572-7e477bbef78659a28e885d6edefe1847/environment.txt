@@ -1,0 +1,27 @@
+基础信息
+   运行目录: C:\Users\dell\Downloads
+   系统时间: 2025年6月5日13时29分16秒
+硬件信息
+   屏幕分辨率: 1536*864
+   CPU型号: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  
+   CPU制造商: Advanced Micro Devices.
+   CPU序列号: 178BFBFF00810F81
+   物理内存: 6030MB
+   虚拟内存: 13198MB
+   摄像头数量: 1
+系统信息
+   类型: Microsoft Windows 10 家庭中文版
+   版本: 10.0.19045
+   用户名: dell
+   IE 版本: 11.3636.19041.0
+   序列号: 00342-36270-89626-AAOEM
+目录信息
+   系统桌面: C:\Users\dell\Desktop\
+   程序数据: C:\Users\dell\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\dell\AppData\Local\Temp\
+   文档目录: C:\Users\dell\Documents\
+其它信息
+   登录过的 QQ 号: 3447014889
+   桌面文件: 360安全卫士.lnk, 360软件管家.lnk, gta-sa.lnk, GTAIV.lnk, HMCL-3.6.12.lnk, hmcl.json, LosslessScaling.lnk, Plain Craft Launcher 2.lnk, Whale.lnk, Your Unin-staller!.lnk, 新建文本文档.txt, 爱加速.lnk
