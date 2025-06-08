@@ -1,0 +1,26 @@
+基础信息
+   运行目录: C:\Users\wyf\Desktop\CheeseNEL 2.0.0514
+   系统时间: 2025年6月8日12时45分33秒
+硬件信息
+   屏幕分辨率: 1536*864
+   CPU型号: 13th Gen Intel(R) Core(TM) i5-13420H
+   CPU制造商: Intel Corporation.
+   CPU序列号: BFEBFBFF000B06A2
+   物理内存: 16016MB
+   虚拟内存: 17040MB
+   摄像头数量: 0
+系统信息
+   类型: Microsoft Windows 11 家庭中文版
+   版本: 10.0.26100
+   用户名: wyf
+   IE 版本: 11.1882.26100.0
+   序列号: 00342-31720-46966-AAOEM
+目录信息
+   系统桌面: C:\Users\wyf\Desktop\
+   程序数据: C:\Users\wyf\AppData\Roaming\
+   Windows安装目录: C:\WINDOWS\
+   Windows系统目录: C:\WINDOWS\system32\
+   临时目录: C:\Users\wyf\AppData\Local\Temp\
+   文档目录: C:\Users\wyf\Documents\
+其它信息
+   桌面文件: CheeseNEL 2.0.0514.zip, desktop.ini, Microsoft Edge.lnk, 英雄联盟WeGame版.lnk
