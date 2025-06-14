@@ -1,0 +1,27 @@
+基础信息
+   运行目录: E:\CheeseNEL
+   系统时间: 2025年6月14日18时33分10秒
+硬件信息
+   屏幕分辨率: 1920*1080
+   CPU型号: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz
+   CPU制造商: Intel Corporation.
+   CPU序列号: BFEBFBFF000906EA
+   物理内存: 24489MB
+   虚拟内存: 28457MB
+   摄像头数量: 0
+系统信息
+   类型: Microsoft Windows 10 专业版
+   版本: 10.0.19045
+   用户名: Administrator
+   IE 版本: 11.3636.19041.0
+   序列号: 00330-80000-00000-AA506
+目录信息
+   系统桌面: C:\Users\Administrator\Desktop\
+   程序数据: C:\Users\Administrator\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\Administrator\AppData\Local\Temp\
+   文档目录: C:\Users\Administrator\Documents\
+其它信息
+   登录过的 QQ 号: 3820046336
+   桌面文件: desktop.ini, Microsoft Edge.lnk
