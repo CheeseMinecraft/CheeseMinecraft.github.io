@@ -1,0 +1,26 @@
+基础信息
+   运行目录: C:\Users\CHxiedifu\Desktop\CheeseNEL 2.0.0514
+   系统时间: 2025年6月20日13时18分40秒
+硬件信息
+   屏幕分辨率: 1714*862
+   CPU型号: 12th Gen Intel(R) Core(TM) i5-12400F
+   CPU制造商: Intel Corporation.
+   CPU序列号: 0F8BFBFF00090675
+   物理内存: 8191MB
+   虚拟内存: 10111MB
+   摄像头数量: 0
+系统信息
+   类型: Microsoft Windows 10 专业工作站版
+   版本: 10.0.19045
+   用户名: CHxiedifu
+   IE 版本: 11.789.19041.0
+   序列号: 00391-70000-00000-AA741
+目录信息
+   系统桌面: C:\Users\CHxiedifu\Desktop\
+   程序数据: C:\Users\CHxiedifu\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\CHXIED~1\AppData\Local\Temp\
+   文档目录: C:\Users\CHxiedifu\Documents\
+其它信息
+   桌面文件: CheeseNEL 2.0.0514.zip, desktop.ini, Plain Craft Launcher 2.exe
