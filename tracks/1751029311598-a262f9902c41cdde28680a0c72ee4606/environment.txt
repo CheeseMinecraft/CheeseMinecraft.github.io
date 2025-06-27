@@ -1,0 +1,26 @@
+基础信息
+   运行目录: C:\Users\WDAGUtilityAccount\Desktop\新建文件夹
+   系统时间: 2025年6月27日21时2分10秒
+硬件信息
+   屏幕分辨率: 1920*1000
+   CPU型号: 13th Gen Intel(R) Core(TM) i5-13400
+   CPU制造商: Intel Corporation.
+   CPU序列号: 1F8BFBFF000B06F2
+   物理内存: 4095MB
+   虚拟内存: 5823MB
+   摄像头数量: 0
+系统信息
+   类型: Microsoft Windows 11 企业版
+   版本: 10.0.26100
+   用户名: WDAGUtilityAccount
+   IE 版本: 11.1882.26100.0
+   序列号: 00328-90000-00000-AAOEM
+目录信息
+   系统桌面: C:\Users\WDAGUtilityAccount\Desktop\
+   程序数据: C:\Users\WDAGUtilityAccount\AppData\Roaming\
+   Windows安装目录: C:\Windows\
+   Windows系统目录: C:\Windows\system32\
+   临时目录: C:\Users\WDAGUtilityAccount\AppData\Local\Temp\
+   文档目录: C:\Users\WDAGUtilityAccount\Documents\
+其它信息
+   桌面文件: CheeseNEL 2.0.0514.zip, desktop.ini, PCL2_CE_x64.exe, Rise QiuSi.zip
